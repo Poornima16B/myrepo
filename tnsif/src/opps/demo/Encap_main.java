@@ -7,7 +7,7 @@ public class Encap_main {
 				
 			
 				EncapDemo obj = new EncapDemo(); 
-				obj.setSerialNum(071);
+				obj.setSerialNum(71);
 				obj.setName("poorni");
 				obj.setAge(21);
 				System.out.println(obj);
